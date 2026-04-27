@@ -1,14 +1,7 @@
 <h1 align="left">👋 Hello there! I'm Ahmed Deraz</h1>
 <h3 align="left">Frontend Developer | 3rd Year Computer Science Student</h3>
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME" alt="page views" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat&logo=github">
-  </a>
-</p>
+
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" align="right" />
