@@ -1,9 +1,10 @@
 <h1 align="left">👋 Hello there! I'm Ahmed Deraz</h1>
+
 <h3 align="left">Full Stack Developer | 4th Year Computer Science Student</h3>
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" alt="Ahmed's GitHub Stats" />
+  <a href="https://github.com/Ahmeddraz-e">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ahmeddraz-e&show_icons=true&theme=transparent" alt="Ahmed's GitHub Stats" />
   </a>
 </p>
 
@@ -18,7 +19,7 @@
 
 <h2 align="left">💻 Tech Stack</h2>
 
-### Frontend
+<h3 align="left">Frontend</h3>
 
 <table>
   <tr>
@@ -57,7 +58,7 @@
   </tr>
 </table>
 
-### Backend & Database
+<h3 align="left">Backend & Database</h3>
 
 <table>
   <tr>
@@ -98,7 +99,10 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddraz-e&layout=compact&theme=transparent"
+    alt="Top Languages"
+  />
 </p>
 
 <!-- links -->
